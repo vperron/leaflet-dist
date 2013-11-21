@@ -1,6 +1,6 @@
 {
   "name": "leaflet",
-  "version": "0.6.4",
+  "version": "0.7.0",
   "main": "leaflet.js",
   "ignore": [
     ".DS_Store",
@@ -8,12 +8,12 @@
     ".gitignore"
   ],
   "homepage": "https://github.com/vperron/leaflet-dist",
-  "_release": "0.6.4",
+  "_release": "0.7.0",
   "_resolution": {
     "type": "version",
-    "tag": "v0.6.4"
+    "tag": "v0.7.0"
   },
   "_source": "git://github.com/vperron/leaflet-dist.git",
-  "_target": "0.6.4",
+  "_target": "0.7.0",
   "_originalSource": "leaflet"
 }
