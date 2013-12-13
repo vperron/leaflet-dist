@@ -1,7 +1,7 @@
 {
-  "name": "leaflet",
+  "name": "leaflet-dist",
   "version": "0.7.0",
-  "main": "leaflet.js",
+  "main": ["leaflet.js", "leaflet.css"] 
   "ignore": [
     ".DS_Store",
     ".git",
