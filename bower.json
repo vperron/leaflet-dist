@@ -1,6 +1,6 @@
 {
   "name": "leaflet",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "main": ["leaflet-src.js", "leaflet.css"],
   "description": "Leaflet Bower package",
   "ignore": [
@@ -9,12 +9,12 @@
     ".gitignore"
   ],
   "homepage": "https://github.com/vperron/leaflet-dist",
-  "_release": "0.7.2",
+  "_release": "0.7.3",
   "_resolution": {
     "type": "version",
-    "tag": "v0.7.2"
+    "tag": "v0.7.3"
   },
   "_source": "git://github.com/vperron/leaflet-dist.git",
-  "_target": "0.7.2",
+  "_target": "0.7.3",
   "_originalSource": "leaflet"
 }
