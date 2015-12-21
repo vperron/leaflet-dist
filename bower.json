@@ -1,5 +1,5 @@
 {
-  "name": "leaflet",
+  "name": "leaflet-dist",
   "version": "0.7.2",
   "main": ["leaflet-src.js", "leaflet.css"],
   "description": "Leaflet Bower package",
